@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1606316214 source:c:\users\ignacio\desktop\nueva carpeta\11 lab1\examen 25\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Menu.h"
+
+1606316175 source:c:\users\ignacio\desktop\nueva carpeta\11 lab1\examen 25\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Bicicleta.h"
+
+1606316122 c:\users\ignacio\desktop\nueva carpeta\11 lab1\examen 25\bicicleta.h
+	"LinkedList.h"
+
+1606313925 source:c:\users\ignacio\desktop\nueva carpeta\11 lab1\examen 25\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606312851 c:\users\ignacio\desktop\nueva carpeta\11 lab1\examen 25\linkedlist.h
+
+1606313960 source:c:\users\ignacio\desktop\nueva carpeta\11 lab1\examen 25\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Menu.h"
+
+1606313976 c:\users\ignacio\desktop\nueva carpeta\11 lab1\examen 25\menu.h
+
